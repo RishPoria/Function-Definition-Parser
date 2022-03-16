@@ -8,6 +8,15 @@ A basic parser for parsing C++ function definition using **LEX and YACC**
 
 ---
 
+## Syntax 
+
+Syntax of C++ function definition:
+```
+return_type function_name( parameter list ) {
+   body of the function
+}
+```
+
 ## Assumptions
 
 - Basic data types are supported (void, bool, char, int, float, double).
