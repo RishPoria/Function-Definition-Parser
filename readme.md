@@ -104,3 +104,19 @@ function(){
 ### Output:
 
 ![OUTPUT-4](images/4.png)
+
+## Reference links
+
+- **Lex Yacc Introduction** 
+  - [http://epaperpress.com/lexandyacc/intro.html](http://epaperpress.com/lexandyacc/intro.html)
+  - [http://dinosaur.compilertools.net/lex/](http://dinosaur.compilertools.net/lex/)
+  - [http://dinosaur.compilertools.net/yacc/](http://dinosaur.compilertools.net/yacc/)
+
+- **Lex yacc primer**
+  - [http://tldp.org/HOWTO/Lex-YACC-HOWTO-7.html](http://tldp.org/HOWTO/Lex-YACC-HOWTO-7.html)
+
+- **Bison manual references**
+  - [http://www.gnu.org/software/bison/manual/html_node/Understanding.html](http://www.gnu.org/software/bison/manual/html_node/Understanding.html)
+  - [http://www.gnu.org/software/bison/manual/bison.html#Action-Features](http://www.gnu.org/software/bison/manual/bison.html#Action-Features)
+  - [http://www.gnu.org/software/bison/manual/bison.html#Algorithm](http://www.gnu.org/software/bison/manual/bison.html#Algorithm)
+  - [http://www.gnu.org/software/bison/manual/html_node/Error-Recovery.html](http://www.gnu.org/software/bison/manual/html_node/Error-Recovery.html)
